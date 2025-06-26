@@ -1,5 +1,4 @@
 # Translational-model--a-comparative-study
-# Translation-model--Comparitive-study
 # 🌐 Hindi-to-English Poetry Translation – Comparative Study Models
 
 This project presents a comparative analysis of four advanced neural machine translation (NMT) models for translating **Hindi poetry into English**. The goal is to explore the effectiveness and performance of multiple architectures in capturing linguistic nuances and poetic expressions.
